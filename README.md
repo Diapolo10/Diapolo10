@@ -24,4 +24,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him/they (though it honestly doesn't matter)
 - ⚡ Fun fact: *Audentem Forsque Venusque iuvat.*
 
+[![Codewars](https://www.codewars.com/users/Diapolo10/badges/large)](https://www.codewars.com/users/Diapolo10)
+
 ![Lari's GitHub stats](https://github-readme-stats.vercel.app/api?username=diapolo10&count_private=true&show_icons=true&theme=highcontrast)
